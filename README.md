@@ -10,5 +10,5 @@ ELE226 burglar alarm project
 2) Run `python3.12 -m venv venv`
 3) Run `source venv/bin/activate`
 4) Run `pip install -r requirements.txt`
-5) Place an image of yourself in the `test_images` directory
+5) Create a directory called `test_images` and place an image of yourself into it
 6) From the project directory, run `python src/server/recognise.py`
