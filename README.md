@@ -7,7 +7,8 @@ ELE226 burglar alarm project
 ## Instructions for Facial Recognition Demo
 
 1) Navigate into the project directory
-2) Run `source venv/bin/activate`
-3) Run `pip install -r requirements.txt`
-4) Place an image of yourself in the `test_images` directory
-5) From the project directory, run `python src/server/recognise.py`
+2) Run `python3.12 -m venv venv`
+3) Run `source venv/bin/activate`
+4) Run `pip install -r requirements.txt`
+5) Place an image of yourself in the `test_images` directory
+6) From the project directory, run `python src/server/recognise.py`
